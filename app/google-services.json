@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "163351283147",
+    "firebase_url": "https://vlock-87159.firebaseio.com",
+    "project_id": "vlock-87159",
+    "storage_bucket": "vlock-87159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163351283147:android:c94d1d797bd17663",
+        "android_client_info": {
+          "package_name": "com.example.chi.vlock_androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163351283147-obls3an8amhpko0lm0cdkajdkiovv80n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chi.vlock_androidapp",
+            "certificate_hash": "86596cb533114b031f118aefb54fce74c2736fd8"
+          }
+        },
+        {
+          "client_id": "163351283147-l2veo4k8lers9vlkedd349bf97au7ili.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEnodSb0SVplRUSZAYMxG0xyBEvX0Xt0Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163351283147-l2veo4k8lers9vlkedd349bf97au7ili.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="server_client_secret">1068506952</string>
+    <string name="server_client_secret_v8">1068506952</string>
+    <string name="url_verify">http://0087ef8e.ngrok.io//api/verify</string>
+    <string name="url_request">http://0087ef8e.ngrok.io//api/request</string>
+    <string name="url_reset">http://0087ef8e.ngrok.io//api/reset</string>
+</resources>
